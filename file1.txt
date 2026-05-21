@@ -1,2 +1,4 @@
 some commands
 mkdir cd ls
+
+miniro commit 
