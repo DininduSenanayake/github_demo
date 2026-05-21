@@ -1,2 +1,2 @@
-# github_demo
-demo repo 
+# Github Demo for teaching 
+demo repo : few files for testing 
