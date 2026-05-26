@@ -1,3 +1,2 @@
-some commands
-mkdir cd ls
 add a new line
+add a new line for dev
