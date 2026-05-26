@@ -1,4 +1,3 @@
 some commands
 mkdir cd ls
-
-miniro commit 
+add a new line
